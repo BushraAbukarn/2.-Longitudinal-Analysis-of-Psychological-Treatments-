@@ -1,4 +1,4 @@
-## This project was designed to examine the effectiveness of psychological treatments, specifically Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT), in alleviating depressive symptoms in diabetic patients. The analysis was conducted using a Mixed Effects Regression Model.
+## This project was designed to examine the effectiveness of psychological treatments, specifically Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT), in alleviating depressive symptoms in diabetic patients. 
 ### Intro
 A brief introduction was given about what diabetes was and the differences between the two types of diabetes. Additionally, the introduction also included an explanation of the two psychological treatments and their impact on diabetic patients.
 
@@ -6,7 +6,7 @@ A brief introduction was given about what diabetes was and the differences betwe
 The data is a longitudinal dataset sourced from the study titled "What Works Best for Whom."
 
 ### Data Preparation
-Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting variables such as "BDIpre," "BDIpost," and "BDI9fu" into individual observations.
+Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting variables such as "BDIpre," "BDIpost," and "BDI9fu" from Beck Depression Inventory scores into individual observations.
 
 The normality of the response variable BDI was assessed using the Shapiro-Wilk test and visualized with a histogram plot.
 
