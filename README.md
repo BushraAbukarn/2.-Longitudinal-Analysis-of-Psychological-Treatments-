@@ -19,6 +19,7 @@ Focuses on identifying and challenging negative thought patterns directly, aimin
 
 Mindfulness-Based Cognitive Therapy (MBCT): 
 Integrates mindfulness practices with cognitive therapy techniques. It encourages individuals to observe their thoughts and emotions without judgment, and acceptance to prevent relapse and manage symptoms.
+
 ### Dataset
 The data is a longitudinal dataset sourced from the study titled "What Works Best for Whom."
 In this longitudinal dataset patients were followed for a year, and BDI score (Beck Depression Inventory) were measured at pre-treatment, post-treatment, and at the 9-month follow-up. The response variable is the BDI score  where the predictors include Group of treatment, Gender, Age, Education level, Type of diabetes, Comorbidities, and Neuroticism.
