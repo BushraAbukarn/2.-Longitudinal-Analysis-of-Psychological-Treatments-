@@ -10,7 +10,7 @@ Diabetes: A chronic disease that affects the transformation of food into energy,
 According to the Life Line Screening, the main difference between the two types of diabetes is:
 1. Type I diabetes is a genetic disorder that often shows up early in life. 
 2. Type II is largely diet-related and develops over time.
-3.  
+
 ![image](https://github.com/user-attachments/assets/98975894-e8d8-40f9-b076-0e6d2309c76d)
 
 Psychological Treatments for Diabetes: Diabetes not only impacts the physical well-being of patients but also takes a toll on their mental health. A significant portion of individuals grappling with diabetes experience symptoms of depression.
@@ -50,6 +50,7 @@ The model identifies significant predictors associated with the response variabl
 
 ### Prediction BDI Score 
 Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score is 9.18. 
+
 ![image](https://github.com/user-attachments/assets/94cced2a-9cb7-40b7-8216-1f7c926219ac)
 
 
