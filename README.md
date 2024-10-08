@@ -33,7 +33,6 @@ The normality of the response variable BDI was assessed using the Shapiro-Wilk t
 ![image](https://github.com/user-attachments/assets/18fb791c-651f-4bd7-9e5b-110e0fb8ddb8)
 
 ![image](https://github.com/user-attachments/assets/c4e82eab-a85a-466c-8784-d23e3fd1612b)
-![image](https://github.com/user-attachments/assets/07c790dc-a30a-47ec-881d-fd0ced5650e9)
 
 Ê(BDI) = -21.578252 + .807103 CBT + 4.702615 Male + .294769 Age + 4.115252 Low Education + 3.097370 Intermediate Education + 2.875266 Diabetes Type I  - 2.089979 Comorbidities + .534734 Neuroticism - .406505 Month.
 - For males, the estimated average BDI score (severity of depressive symptoms) is 4.702615 points higher than for females. 
