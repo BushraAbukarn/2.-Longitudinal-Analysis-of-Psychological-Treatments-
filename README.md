@@ -5,13 +5,13 @@ The mixed-effects regression model is a powerful tool for analyzing longitudinal
 
 Diabetes: A chronic disease that affects the transformation of food into energy, breaking down most of the food in the body into sugar (glucose) and releasing it into the bloodstream. According to National Diabetes Statistics Report, 38.4 million people have diabetes (11.6% of the US population). 
 
-![image](https://github.com/user-attachments/assets/432c9b0f-41b1-443c-b96f-451592c0ef8e)
+![image](https://github.com/user-attachments/assets/774d07b3-145d-42ae-acb3-02d63b7413b9)
 
 According to the Life Line Screening, the main difference between the two types of diabetes is:
 1. Type I diabetes is a genetic disorder that often shows up early in life. 
 2. Type II is largely diet-related and develops over time.
 
-![image](https://github.com/user-attachments/assets/98975894-e8d8-40f9-b076-0e6d2309c76d)
+![image](https://github.com/user-attachments/assets/8b4d5cb2-fd7c-42f9-8712-793f0f4616f2)
 
 Psychological Treatments for Diabetes: Diabetes not only impacts the physical well-being of patients but also takes a toll on their mental health. A significant portion of individuals grappling with diabetes experience symptoms of depression.
 
