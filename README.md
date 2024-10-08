@@ -24,7 +24,9 @@ In this longitudinal dataset patients were followed for a year, and BDI score (B
 
 ### Data Preparation and Modeling 
 ![image](https://github.com/user-attachments/assets/2fb04d1b-5062-401b-a0ec-5c8bd000aef9)
+
 Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting Beck Depression Inventory scores variables "BDIpre," "BDIpost," and "BDI9fu" into individual observations.
+
 ![image](https://github.com/user-attachments/assets/4fe743db-32be-4793-83e0-57518a3dff08)
 ![image](https://github.com/user-attachments/assets/0896281c-2a4a-40a8-87a4-63d186c9bd98)
 
