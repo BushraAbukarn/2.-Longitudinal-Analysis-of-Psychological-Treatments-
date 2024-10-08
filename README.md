@@ -49,13 +49,13 @@ The model identifies significant predictors associated with the response variabl
 - Conversely, the estimated average BDI score decreases by 40.6% as time increases by one month of psychological treatment.
 
 ### Prediction BDI Score 
-Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score is 9.18. 
+Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score for this case is 9.18. 
 
 ![image](https://github.com/user-attachments/assets/94cced2a-9cb7-40b7-8216-1f7c926219ac)
 
 
 ### Conclusion 
-Based on the results, we can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 40% each month of treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
+Based on the results, we can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 41% each month of treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
 
 ![image](https://github.com/user-attachments/assets/a5ffce33-c252-4a1b-ac11-0c7d3f17449c)
 
