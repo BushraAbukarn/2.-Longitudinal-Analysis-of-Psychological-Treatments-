@@ -59,3 +59,15 @@ Based on the results, we can conclude that psychological treatments significantl
 
 ![image](https://github.com/user-attachments/assets/a5ffce33-c252-4a1b-ac11-0c7d3f17449c)
 
+### Reference:
+[1] National Institute of Diabetes and Digestive and Kidney Diseases. “Diabetes Statistics -
+NIDDK.” National Institute of Diabetes and Digestive and Kidney Diseases, Jan. 2024,
+www.niddk.nih.gov/health-information/health-statistics/diabetesstatistics#:~:text=Estimated%20prevalence%20of%20diabetes%20in.
+[2] Life Line Screening. “What’s the Difference between Type 1 and Type 2 Diabetes?”
+Www.lifelinescreening.com, www.lifelinescreening.com/health-education/diabetes/type-1-type2-diabetes?sourcecd=WNAT003.
+[3] Egede, Leonard E., and Charles Ellis. “Diabetes and Depression: Global Perspectives.”
+Diabetes Research and Clinical Practice, vol. 87, no. 3, Mar. 2010, pp. 302–312,
+www.sciencedirect.com/science/article/abs/pii/S0168822710000471,
+https://doi.org/10.1016/j.diabres.2010.01.024.
+[4] Elias, Daniel. “Free Works Cited Generator [Updated for 2021].” MyBib,
+www.mybib.com/tools/works-cited-generator. 
