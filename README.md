@@ -17,7 +17,7 @@ According to the Life Line Screening, the main difference between the two types 
 
 Psychological Treatments for Diabetes: Diabetes not only impacts the physical well-being of patients but also takes a toll on their mental health. A significant portion of individuals grappling with diabetes experience symptoms of depression.
 
-![image](https://github.com/user-attachments/assets/3cefd58d-de19-4c53-a68a-683591f2e076)
+![image](https://github.com/user-attachments/assets/cb0a6bbd-ead4-4fc8-b24d-137e7f889945)
 
 Cognitive Behavioral Therapy (CBT): Focuses on identifying and challenging negative thought patterns directly, aiming to change them into more positive and adaptive ones through structured exercises and homework assignments.
 
