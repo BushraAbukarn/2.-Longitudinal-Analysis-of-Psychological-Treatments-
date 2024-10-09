@@ -1,5 +1,5 @@
 ## Examine the Effectiveness of Psychological Treatments in Alleviating Depressive Symptoms for Diabetes.
-![image](https://github.com/user-attachments/assets/8bdf5a46-9f27-4b1a-89a1-ce74261e510a)
+![image](https://github.com/user-attachments/assets/1582015f-9f60-48fa-a942-c476758648cc)
 
 
 ### Intro
