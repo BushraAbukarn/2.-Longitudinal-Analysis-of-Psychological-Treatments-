@@ -1,4 +1,6 @@
 ## Examine the Effectiveness of Psychological Treatments in Alleviating Depressive Symptoms for Diabetes.
+![image](https://github.com/user-attachments/assets/8bdf5a46-9f27-4b1a-89a1-ce74261e510a)
+
 
 ### Intro
 The mixed-effects regression model is a powerful tool for analyzing longitudinal data, making it particularly suitable for evaluating the impact of treatments like Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT) across diverse patient populations over time. Additionally, this model helped identify significant predictors associated with depression by assessing the statistical significance of their effects through hypothesis testing.
