@@ -38,7 +38,7 @@ Data preparation involved conducting data cleaning, modification, and pivoting t
 The normality of the response variable BDI was assessed using the Shapiro-Wilk test and visualized with a histogram plot.
 
 ### Results & Interpretation
-![image](https://github.com/user-attachments/assets/18fb791c-651f-4bd7-9e5b-110e0fb8ddb8)
+  ![image](https://github.com/user-attachments/assets/6103dc03-ffa7-4d2b-81b0-db344596f449)
 
 ![image](https://github.com/user-attachments/assets/c4e82eab-a85a-466c-8784-d23e3fd1612b)
 
