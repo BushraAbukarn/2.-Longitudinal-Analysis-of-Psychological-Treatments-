@@ -48,7 +48,7 @@ The model identifies key predictors of the response variables by evaluating thei
 - For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. 
 - Additionally, for every additional year of age, the estimated average BDI score increases by 29.4%. 
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
-- Conversely, the estimated average BDI score decreases by 40.6% as time increases by three months of psychological treatment.
+- Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
 
 ### Prediction BDI Score 
 Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score for this case is 9.18. 
