@@ -19,11 +19,11 @@ According to the Life Line Screening, the main difference between the two types 
 #### Psychological Treatments for Diabetes: 
 Diabetes not only impacts the physical well-being of patients but also takes a toll on their mental health. A significant portion of individuals grappling with diabetes experience symptoms of depression.
 
-![image](https://github.com/user-attachments/assets/cb0a6bbd-ead4-4fc8-b24d-137e7f889945)
-
 1. Cognitive Behavioral Therapy (CBT): Focuses on identifying and challenging negative thought patterns directly, aiming to change them into more positive and adaptive ones through structured exercises and homework assignments.
 
 2. Mindfulness-Based Cognitive Therapy (MBCT): Integrates mindfulness practices with cognitive therapy techniques. It encourages individuals to observe their thoughts and emotions without judgment, and acceptance to prevent relapse and manage symptoms.
+
+![image](https://github.com/user-attachments/assets/9223c8d2-94d4-4894-bf59-379e180ae728)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Dataset
