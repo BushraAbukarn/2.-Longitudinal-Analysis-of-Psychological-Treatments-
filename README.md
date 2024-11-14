@@ -5,7 +5,7 @@
 ### Intro
 The mixed-effects regression model is a powerful tool for analyzing longitudinal data, making it particularly suitable for evaluating the impact of treatments like Cognitive Behavioral Therapy (CBT) and Mindfulness-Based Cognitive Therapy (MBCT) across diverse patient populations over time. Additionally, this model helped identify significant predictors associated with depression by assessing the statistical significance of their effects through hypothesis testing.
 
-Diabetes: A chronic disease that affects the transformation of food into energy, breaking down most of the food in the body into sugar (glucose) and releasing it into the bloodstream. According to National Diabetes Statistics Report, 38.4 million people have diabetes (11.6% of the US population). 
+*Diabetes: A chronic disease that affects the transformation of food into energy, breaking down most of the food in the body into sugar (glucose) and releasing it into the bloodstream. According to National Diabetes Statistics Report, 38.4 million people have diabetes (11.6% of the US population). 
 
 ![image](https://github.com/user-attachments/assets/774d07b3-145d-42ae-acb3-02d63b7413b9)
 
