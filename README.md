@@ -44,6 +44,7 @@ ________________________________________________________________________________
 In this model, the response variable is the BDI score where the predictors include Group of treatment, Gender, Age, Education level, Type of diabetes, Comorbidities, and Neuroticism.
 
 ![image](https://github.com/user-attachments/assets/41e9701c-bd58-4dcf-9d18-f159046d3622)
+![image](https://github.com/user-attachments/assets/567460ea-f395-4f27-a7e9-c05194084f5c)
 ![image](https://github.com/user-attachments/assets/c1c70b9e-87de-438d-8d23-67f1ef6a0dfe)
 ![image](https://github.com/user-attachments/assets/2381243b-9221-43b0-b124-9bc20a99b4d3)
 
@@ -53,9 +54,24 @@ The model identifies key predictors of the response variables by evaluating thei
 - Additionally, for every additional year of age, the estimated average BDI score increases by 29.4%. 
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
 - Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
+
+The range of standardized residuals is approximately [−2.24,2.59], with a median close to zero. This distribution of residuals is relatively symmetric around zero, which is a good indication of a well-fitted model.
+The residual error of 7.07 suggests some variation remains unexplained at the individual level.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Checking the Normality & Homoscedasticity
+This is a residuals vs. fitted values plot for the Linear Mixed-Effect model, which shows the standardized residuals on the y-axis and the fitted values (predicted values) on the x-axis.
+
+![image](https://github.com/user-attachments/assets/e4078b31-6880-4934-ad88-0466cb0fcc4c)
+![image](https://github.com/user-attachments/assets/06bf1d55-c2f7-4d3e-a83f-5bb7e360096b)
+
+Overall, the plot suggests a reasonably good fit, with the residuals scattered randomly around zero, indicating that the model captures the main patterns in the data.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Prediction
+Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score for this case is 9.18.
+
+![image](https://github.com/user-attachments/assets/ef6ef0c3-2962-4802-ae6e-5d27125a9b86)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Conclusion
+Based on the results, I can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 41% every three months of treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
+
+![image](https://github.com/user-attachments/assets/6145f780-ae7f-4eaf-bbe4-c8b18ab0282c)
