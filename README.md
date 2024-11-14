@@ -19,6 +19,9 @@ Integrates mindfulness practices with cognitive therapy techniques. It encourage
 ![image](https://github.com/user-attachments/assets/647155ba-51b0-4c0d-8ae3-619450dd7620)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Dataset
+The data is a longitudinal dataset sourced from the study titled "What Works Best for Whom." In this longitudinal dataset, patients were followed for a year of treatment, with Beck Depression Inventory (BDI) scores measured at three points: pre-treatment, post-treatment (after 3 months of treatment), and at a 9-month follow-up. Additionally, other variables were measured, including comorbidities, neuroticism, and more. 
+
+![image](https://github.com/user-attachments/assets/6d8a2357-a3e2-46a6-8eb0-e378f6326631)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Wrangling 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
