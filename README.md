@@ -24,6 +24,11 @@ The data is a longitudinal dataset sourced from the study titled "What Works Bes
 ![image](https://github.com/user-attachments/assets/6d8a2357-a3e2-46a6-8eb0-e378f6326631)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Wrangling 
+Data preparation included cleaning steps, such as dropping unnecessary columns, and modifications like pivoting to ready the dataset for analysis and visualization. This process transformed the data into a long format by converting the Beck Depression Inventory score variables ("BDIpre," "BDIpost," and "BDI9fu") into individual observations.
+
+![image](https://github.com/user-attachments/assets/b7c16a4a-7c13-4747-b00b-1328180e0f34)
+
+Dataset after minpulation 
 ![image](https://github.com/user-attachments/assets/7c98a5cf-2686-4ec9-b4b5-24bf4c3a88ec)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
