@@ -32,15 +32,20 @@ In this longitudinal dataset patients were followed for a year, and BDI score (B
 
 ![image](https://github.com/user-attachments/assets/8a624e65-cdcb-4475-ba10-211149a8ae34)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Data Preparation and Modeling 
-![image](https://github.com/user-attachments/assets/2fb04d1b-5062-401b-a0ec-5c8bd000aef9)
-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### Data Prepration 
 Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting Beck Depression Inventory scores variables "BDIpre," "BDIpost," and "BDI9fu" into individual observations.
+![image](https://github.com/user-attachments/assets/0516a6d8-d93c-4125-b05b-41917d166d07)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Testing the normality of the response variable 
+![image](https://github.com/user-attachments/assets/dbc6e4c9-e872-40b6-b022-8cfb51685864)
 ![image](https://github.com/user-attachments/assets/ec86b3c3-b4c2-479f-9ac1-2c6dafea70f6)
-
 The normality of the response variable BDI was assessed using the Shapiro-Wilk test and visualized with a histogram plot.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Fitting the Mixed-Effect Regrssion Model
+![image](https://github.com/user-attachments/assets/8206b4f9-ddef-4e68-83ae-68813c6ece01)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
