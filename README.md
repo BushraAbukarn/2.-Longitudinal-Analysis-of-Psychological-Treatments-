@@ -9,7 +9,6 @@ This project is designed to examine the effectiveness of psychological treatment
 A chronic disease that affects the transformation of food into energy, breaking down most of the food in the body into sugar (glucose) and releasing it into the bloodstream.
 
 ![image](https://github.com/user-attachments/assets/57773d4a-dd2b-4ed0-a529-0f60014f64e1)
-![image](https://github.com/user-attachments/assets/39238b98-042c-408a-a112-66c2ea0efb97)
 
 #### Cognitive Behavioral Therapy (CBT)
 Focuses on identifying and challenging negative thought patterns directly, aiming to change them into more positive and adaptive ones through structured exercises and homework assignments.
