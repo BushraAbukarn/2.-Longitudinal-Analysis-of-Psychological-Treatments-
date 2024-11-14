@@ -28,11 +28,16 @@ Data preparation included cleaning steps, such as dropping unnecessary columns, 
 
 ![image](https://github.com/user-attachments/assets/b7c16a4a-7c13-4747-b00b-1328180e0f34)
 
-Dataset after minpulation 
+Here's how the dataset looks after manipulation
 ![image](https://github.com/user-attachments/assets/7c98a5cf-2686-4ec9-b4b5-24bf4c3a88ec)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Summary Statistics 
+The average value of the BDI score is 18.84.
+![image](https://github.com/user-attachments/assets/09947a44-63cd-4883-bcf0-906518fc51e6)
+
+![image](https://github.com/user-attachments/assets/5566a241-98ff-462b-a7b0-52a892bc026e)
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Fitting The Model 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
