@@ -28,6 +28,8 @@ Mindfulness-Based Cognitive Therapy (MBCT): Integrates mindfulness practices wit
 The data is a longitudinal dataset sourced from the study titled "What Works Best for Whom."
 In this longitudinal dataset patients were followed for a year, and BDI score (Beck Depression Inventory) were measured at pre-treatment, post-treatment, and at the 9-month follow-up. The response variable is the BDI score  where the predictors include Group of treatment, Gender, Age, Education level, Type of diabetes, Comorbidities, and Neuroticism.
 
+![image](https://github.com/user-attachments/assets/8a624e65-cdcb-4475-ba10-211149a8ae34)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Preparation and Modeling 
 ![image](https://github.com/user-attachments/assets/2fb04d1b-5062-401b-a0ec-5c8bd000aef9)
