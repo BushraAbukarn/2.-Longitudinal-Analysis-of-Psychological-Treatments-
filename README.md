@@ -22,20 +22,23 @@ Psychological Treatments for Diabetes: Diabetes not only impacts the physical we
 Cognitive Behavioral Therapy (CBT): Focuses on identifying and challenging negative thought patterns directly, aiming to change them into more positive and adaptive ones through structured exercises and homework assignments.
 
 Mindfulness-Based Cognitive Therapy (MBCT): Integrates mindfulness practices with cognitive therapy techniques. It encourages individuals to observe their thoughts and emotions without judgment, and acceptance to prevent relapse and manage symptoms.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Dataset
 The data is a longitudinal dataset sourced from the study titled "What Works Best for Whom."
 In this longitudinal dataset patients were followed for a year, and BDI score (Beck Depression Inventory) were measured at pre-treatment, post-treatment, and at the 9-month follow-up. The response variable is the BDI score  where the predictors include Group of treatment, Gender, Age, Education level, Type of diabetes, Comorbidities, and Neuroticism.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Preparation and Modeling 
 ![image](https://github.com/user-attachments/assets/2fb04d1b-5062-401b-a0ec-5c8bd000aef9)
 
 Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting Beck Depression Inventory scores variables "BDIpre," "BDIpost," and "BDI9fu" into individual observations.
 
-![image](https://github.com/user-attachments/assets/4fe743db-32be-4793-83e0-57518a3dff08)
-![image](https://github.com/user-attachments/assets/0896281c-2a4a-40a8-87a4-63d186c9bd98)
+![image](https://github.com/user-attachments/assets/ec86b3c3-b4c2-479f-9ac1-2c6dafea70f6)
 
 The normality of the response variable BDI was assessed using the Shapiro-Wilk test and visualized with a histogram plot.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Results & Interpretation
   ![image](https://github.com/user-attachments/assets/6103dc03-ffa7-4d2b-81b0-db344596f449)
@@ -50,17 +53,19 @@ The model identifies key predictors of the response variables by evaluating thei
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
 - Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Prediction BDI Score 
 Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score for this case is 9.18. 
 
 ![image](https://github.com/user-attachments/assets/94cced2a-9cb7-40b7-8216-1f7c926219ac)
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Conclusion 
 Based on the results, we can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 41% every three months of treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
 
 ![image](https://github.com/user-attachments/assets/7f70bcb7-6176-4636-a365-0fb12821f8d2)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Reference:
 [1] National Institute of Diabetes and Digestive and Kidney Diseases. “Diabetes Statistics -
 NIDDK.” National Institute of Diabetes and Digestive and Kidney Diseases, Jan. 2024,
