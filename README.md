@@ -35,17 +35,17 @@ In this longitudinal dataset patients were followed for a year, and BDI score (B
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Data Prepration 
 Data preparation involved conducting data cleaning, modification, and pivoting to prepare the dataset for detailed analysis and visualization. This process included transforming the data into a long format, which required converting Beck Depression Inventory scores variables "BDIpre," "BDIpost," and "BDI9fu" into individual observations.
-![image](https://github.com/user-attachments/assets/0516a6d8-d93c-4125-b05b-41917d166d07)
+![image](https://github.com/user-attachments/assets/db20018c-f79a-4afd-912e-eeda95d07585)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Testing the normality of the response variable 
-![image](https://github.com/user-attachments/assets/dbc6e4c9-e872-40b6-b022-8cfb51685864)
+![image](https://github.com/user-attachments/assets/ef27f920-0d8b-425f-ac14-6d67f9ff8612)
 ![image](https://github.com/user-attachments/assets/ec86b3c3-b4c2-479f-9ac1-2c6dafea70f6)
 The normality of the response variable BDI was assessed using the Shapiro-Wilk test and visualized with a histogram plot.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Fitting the Mixed-Effect Regrssion Model
-![image](https://github.com/user-attachments/assets/8206b4f9-ddef-4e68-83ae-68813c6ece01)
+![image](https://github.com/user-attachments/assets/afda0231-773a-4661-acd1-974d065af62d)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
