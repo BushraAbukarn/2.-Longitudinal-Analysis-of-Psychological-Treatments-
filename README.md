@@ -50,8 +50,8 @@ In this model, the response variable is the BDI score where the predictors inclu
 ![image](https://github.com/user-attachments/assets/2381243b-9221-43b0-b124-9bc20a99b4d3)
 
 The model identifies key predictors of the response variables by evaluating their statistical significance through hypothesis testing, with significant predictors defined as those having a p-value < 0.05. The significant predictors include gender, age, neuroticism level, and month.
-Ê(BDI) = -21.578252 + .807103 CBT + 4.702615 Male + .294769 Age + 4.115252 Low Education + 3.097370 Intermediate Education + 2.875266 Diabetes Type I  - 2.089979 Comorbidities + .534734 Neuroticism - .406505 Month.
-- For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. σ = 7.07. 
+Ê(BDI) = -21.578252 + .807103 CBT + 4.702615 Male + .294769 Age + 4.115252 Low Education + 3.097370 Intermediate Education + 2.875266 Diabetes Type I  - 2.089979 Comorbidities + .534734 Neuroticism - .406505 Month. σ = 7.07. 
+- For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. 
 - Additionally, for every additional year of age, the estimated average BDI score increases by 29.4%. 
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
 - Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
