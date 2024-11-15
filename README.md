@@ -55,7 +55,7 @@ The model identifies key predictors of the response variables by evaluating thei
 - For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. 
 - Additionally, for every additional year of age, the estimated average BDI score increases by 29.4%. 
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
-- Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
+- Conversely, the estimated average BDI score decreases by 40.6% with each month of psychological treatment.
 
 The range of standardized residuals is approximately [−2.24,2.59], with a median close to zero. This distribution of residuals is relatively symmetric around zero, which is a good indication of a well-fitted model.
 The residual error of 7.07 suggests some variation remains unexplained at the individual level.
@@ -75,7 +75,7 @@ Here I used the model to predict the BDI score of a 45-year-old female in the MB
 ![image](https://github.com/user-attachments/assets/ef6ef0c3-2962-4802-ae6e-5d27125a9b86)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Conclusion
-Based on the results, I can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 41% every three months of treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
+Based on the results, I can conclude that psychological treatments significantly alleviate depressive symptoms in diabetic patients, reducing them by approximately 41% with each month of psychological treatment. However, we can also conclude that there is no significant difference between the CBT treatment and MBCT treatment for diabetic patients, as the p-value of the CBT treatment is greater than 5%. The "What Works Best for Whom" study found that both therapies, CBT and MBCT, helped reduce depression in diabetic patients, which supports the results we obtained.
 
 ![image](https://github.com/user-attachments/assets/6145f780-ae7f-4eaf-bbe4-c8b18ab0282c)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
