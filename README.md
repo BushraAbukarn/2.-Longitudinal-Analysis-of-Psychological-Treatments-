@@ -33,10 +33,11 @@ Here's how the dataset looks after manipulation
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Summary Statistics 
-The average value of the BDI score is 18.84.
+The average score of the BDI is 18.84.
 
 ![image](https://github.com/user-attachments/assets/09947a44-63cd-4883-bcf0-906518fc51e6)
 
+The histogram is unimodal and right-skewed, and the Shapiro-Wilk test yields a p-value less than 0.05, indicating that the BDI is not normally distributed. 
 ![image](https://github.com/user-attachments/assets/5566a241-98ff-462b-a7b0-52a892bc026e)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -50,7 +51,7 @@ In this model, the response variable is the BDI score where the predictors inclu
 
 The model identifies key predictors of the response variables by evaluating their statistical significance through hypothesis testing, with significant predictors defined as those having a p-value < 0.05. The significant predictors include gender, age, neuroticism level, and month.
 Ê(BDI) = -21.578252 + .807103 CBT + 4.702615 Male + .294769 Age + 4.115252 Low Education + 3.097370 Intermediate Education + 2.875266 Diabetes Type I  - 2.089979 Comorbidities + .534734 Neuroticism - .406505 Month.
-- For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. 
+- For males, the estimated average BDI score (Beck Depression Inventory) is 4.702615 points higher than for females. σ = 7.07. 
 - Additionally, for every additional year of age, the estimated average BDI score increases by 29.4%. 
 - Moreover, as the neuroticism level increases by one unit, the estimated average BDI score increases by 53.4%.
 - Conversely, the estimated average BDI score decreases by 40.6% for every three months of psychological treatment.
