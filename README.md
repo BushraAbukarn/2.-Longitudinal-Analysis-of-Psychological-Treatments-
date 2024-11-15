@@ -42,7 +42,7 @@ The histogram is unimodal and right-skewed, and the Shapiro-Wilk test yields a p
 ![image](https://github.com/user-attachments/assets/5566a241-98ff-462b-a7b0-52a892bc026e)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-### Fitting The Model 
+### Fitting the Model 
 In this model, the response variable is the BDI score where the predictors include Group of treatment, Gender, Age, Education level, Type of diabetes, Comorbidities, and Neuroticism.
 
 ![image](https://github.com/user-attachments/assets/41e9701c-bd58-4dcf-9d18-f159046d3622)
