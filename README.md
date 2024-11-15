@@ -63,9 +63,10 @@ ________________________________________________________________________________
 This is a residuals vs. fitted values plot for the Linear Mixed-Effect model, which shows the standardized residuals on the y-axis and the fitted values (predicted values) on the x-axis.
 
 ![image](https://github.com/user-attachments/assets/e4078b31-6880-4934-ad88-0466cb0fcc4c)
-![image](https://github.com/user-attachments/assets/06bf1d55-c2f7-4d3e-a83f-5bb7e360096b)
 
 Overall, the plot suggests a reasonably good fit, with the residuals scattered randomly around zero, indicating that the model captures the main patterns in the data.
+
+![image](https://github.com/user-attachments/assets/06bf1d55-c2f7-4d3e-a83f-5bb7e360096b)
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Prediction
 Here I used the model to predict the BDI score of a 45-year-old female in the MBCT post-treatment period, dealing with type II diabetes, who has a high level of education and no comorbidities. Her neuroticism level is 35. The BDI score for this case is 9.18.
