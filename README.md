@@ -38,6 +38,7 @@ The average score of the BDI is 18.84.
 ![image](https://github.com/user-attachments/assets/09947a44-63cd-4883-bcf0-906518fc51e6)
 
 The histogram is unimodal and right-skewed, and the Shapiro-Wilk test yields a p-value less than 0.05, indicating that the BDI is not normally distributed. 
+
 ![image](https://github.com/user-attachments/assets/5566a241-98ff-462b-a7b0-52a892bc026e)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________
